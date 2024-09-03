@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function NoPage() {
-  return (
-    <div>NoPage</div>
-  )
+  return <div className="bg-black text-center text-xl text-white">NoPage</div>;
 }
 
-export default NoPage
+export default NoPage;
